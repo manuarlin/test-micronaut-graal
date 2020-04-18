@@ -1,0 +1,8 @@
+---
+micronaut:
+  application:
+    name: test-micronaut-graal
+
+---
+mongodb:
+  uri: mongodb://localhost:27017
